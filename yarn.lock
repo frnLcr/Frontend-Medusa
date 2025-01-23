@@ -6426,6 +6426,7 @@ __metadata:
     react-country-flag: ^3.1.0
     react-dom: 19.0.0-rc-66855b96-20241106
     server-only: ^0.0.1
+    swiper: ^11.2.1
     tailwindcss: ^3.0.23
     tailwindcss-radix: ^2.8.0
     typescript: ^5.3.2
@@ -8223,6 +8224,13 @@ __metadata:
   version: 1.0.0
   resolution: "supports-preserve-symlinks-flag@npm:1.0.0"
   checksum: 53b1e247e68e05db7b3808b99b892bd36fb096e6fba213a06da7fab22045e97597db425c724f2bbd6c99a3c295e1e73f3e4de78592289f38431049e1277ca0ae
+  languageName: node
+  linkType: hard
+
+"swiper@npm:^11.2.1":
+  version: 11.2.1
+  resolution: "swiper@npm:11.2.1"
+  checksum: 0698ba0d74623e7bd9c6ceb465861d14b5110903f635e713bd04569b83ec67692ab09c68be72acbd55414115df9cccaec959277bc317f32176dcb2c8c00fc577
   languageName: node
   linkType: hard
 
